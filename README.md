@@ -4,4 +4,5 @@ Datagrams Forwarded/sec is the rate, in incidents per second, at which attemps w
 Messages/sec is the total rate, in incidents per second, at which ICMP messages were sent and received by the entity. The rate includes messages received or sent in error.
 Database Pages Repeatedly Written/sec is the rate that pages are written to the database file(s) from the database cache more than once in their lifetime in the cache.  These page writes represent extra writes above the theoretical minimum and can therefore be considered overhead.
 Provides an estimate of the database cache lifetime, based on the most recently evicted resource.  A database page which is currently entering the cache should expect to remain in the cache for approximately this amount of time (in seconds) if not requested multiple times afterwards (i.e., if it doesn't become "hot").
-![Photos 12_18_2021 4_51_17 AM](https://user-images.githubusercontent.com/62688700/154376888-7f7e0df1-9a1f-4537-9888-003f379c1e4f.png)
+
+![85F2A7178B2E44AFBFCF178A36ED3412150CD1279A705D5CF57A13A6E06DC17D452](https://user-images.githubusercontent.com/62688700/154397315-88e53bf5-0bb6-4847-bfee-af7b66935b1d.jpg)
