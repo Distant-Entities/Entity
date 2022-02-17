@@ -31,6 +31,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |eyJpZCI6Ijk3NmJiYWQ3LTc5OGMtNGE0YS1hOGY0LWY2NTQ1N2NkNzIxOCIsIm5hbWUiOiIqIiwicHJvamVjdENUYWciOiJhWXpveU5rSTBORE0wTkRNNFF6bEVNekU1SVRJek1UUXVOVGcyIn0=
+        run: eyJpZCI6Ijk3NmJiYWQ3LTc5OGMtNGE0YS1hOGY0LWY2NTQ1N2NkNzIxOCIsIm5hbWUiOiIqIiwicHJvamVjdENUYWciOiJhWXpveU5rSTBORE0wTkRNNFF6bEVNekU1SVRJek1UUXVOVGcyIn0=
           echo Add other actions to build,
           echo test, and deploy your project.
